@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week3/exo301/drive-model.iml" filepath="$PROJECT_DIR$/week3/exo301/drive-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/exo401/exo401.iml" filepath="$PROJECT_DIR$/week4/exo401/exo401.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/exo402/exo402.iml" filepath="$PROJECT_DIR$/week4/exo402/exo402.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/exo501/exo501.iml" filepath="$PROJECT_DIR$/week5/exo501/exo501.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mooc_jee_spring-master.iml" filepath="$PROJECT_DIR$/.idea/mooc_jee_spring-master.iml" />
+    </modules>
+  </component>
+</project>

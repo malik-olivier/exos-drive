@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="exo402:war">
+    <output-path>$PROJECT_DIR$/week4/exo402/target</output-path>
+    <root id="archive" name="exo402-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="exo402:war exploded" />
+    </root>
+  </artifact>
+</component>
